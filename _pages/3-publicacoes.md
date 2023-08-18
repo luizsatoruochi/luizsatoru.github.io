@@ -29,6 +29,8 @@ news_limit: 5
 
 2. **Luiz Satoru Ochi (2023). "Cidades & Regiões Inteligentes e Sustentáveis – CRIS: Alguns segmentos e tecnologias de solução; pp; 91-110, Capítulo do livro". No Livro: Cidades Inteligentes: Gestão de recursos hídricos e planejamento**, editor: Jose Irivaldo (UFCG/PB), Copyright © 2023 Editora Meraki Ltda. ISBN:978 65 88781 80 7
 
+3. 
+
 ## **2022**
 
 ## **Accepted/Published**
