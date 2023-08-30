@@ -29,7 +29,7 @@ news_limit: 5
 
 2. **Luiz Satoru Ochi (2023). "Cidades & Regiões Inteligentes e Sustentáveis – CRIS: Alguns segmentos e tecnologias de solução; pp; 91-110, Capítulo do livro". No Livro: Cidades Inteligentes: Gestão de recursos hídricos e planejamento**, editor: Jose Irivaldo (UFCG/PB), Copyright © 2023 Editora Meraki Ltda. ISBN:978 65 88781 80 7
 
-3. **Costa, Daniel Ferreira; Aloise, Dario José; Costa, Heitor Nunes; and Ochi, Luiz Satoru (2023). “Uma Abordagem Meta-Heurística Evolutiva para a Otimização de Rotas de Entrega Fracionada de Mercadorias Utilizando Caminhões e Drones” – CLUSTER: Cidades Inteligentes e suas aplicações. Aceito para o LV SBPO – SJC/SP, 2023**
+3. **Costa, Daniel Ferreira; Aloise, Dario José; Costa, Heitor Nunes; and Ochi, Luiz Satoru (2023). “Uma Abordagem Meta-Heurística Evolutiva para a Otimização de Rotas de Entrega Fracionada de Mercadorias Utilizando Caminhões e Drones” – CLUSTER: Cidades Inteligentes e suas aplicações. Aceito para o LV SBPO (Qualis A4) – SJC/SP, 2023**
 
 4. **Haddad, Guilherme M.; and Ochi, Luiz Satoru (2023). "Combinando Técnicas de Machine Learning e Otimização para Roteamento Combinado de Veículos Tripulados e Não Tripulados" – CLUSTER: Cidades Inteligentes e suas aplicações. Aceito para o LV SBPO – SJC/SP, 2023**
 
